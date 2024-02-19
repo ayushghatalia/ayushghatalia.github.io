@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior"
 collection: publications
 permalink: /publication/lcbm
@@ -11,4 +11,4 @@ citation: 'Ashmit Khandelwal, Aditya Agrawal, Aanisha Bhattacharyya, Yaman K Sin
 ---
 **Shannon’s communication theory** comprises three levels: **technical, semantic, and effectiveness**. While the technical and semantic levels have made substantial progress, the effectiveness levels, involving **receiver behavior, has been largely unaddressed.**
 
-The paper introduces **Large Content and Behavior Models (LCBMs)** to bridge this gap by reintroducing **behavior tokens** into LLM training data. These models demonstrate generalization capabilities in **simulating and explaining receiver behavior**, understanding content, and **adapting to various behavior domains** using the Content Behavior Corpus (CBC).
+The paper introduces **Large Content and Behavior Models (LCBMs)** to bridge this gap by reintroducing **behavior tokens** into LLM training data. These models demonstrate generalization capabilities in **simulating and explaining receiver behavior**, understanding content, and **adapting to various behavior domains** using the Content Behavior Corpus (CBC). -->
