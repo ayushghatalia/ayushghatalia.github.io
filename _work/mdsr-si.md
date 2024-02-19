@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'Research Intern - Adobe'
 collection: work
 permalink: /work/mdsr-si
@@ -11,4 +11,4 @@ location: ''
 Successfully **embedded vision** into a Vicuna‐13B LLM and **instruction fine‐tuned** it to understand the relationship between human behavior and video content.
 **Beat few‐shot GPT‐4**, showing that current SoTA models do not understand behavior.
 
-Automated scraping and processing of **terabytes of data** for multiple projects. -->
+Automated scraping and processing of **terabytes of data** for multiple projects. --> -->
