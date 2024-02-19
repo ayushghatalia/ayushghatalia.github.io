@@ -7,6 +7,6 @@ redirect_from:
     - /resume
 ---
 
-<!-- **[Link to CV](/files/ashmit-khandelwal-cv.pdf){:target="\_blank"}**
+**[Link to CV](/files/ayush/1.0.pdf){:target="\_blank"}**
 
-_Updated 24 Aug, 2023_ -->
+<!-- _Updated 19 Feb, 2024_ -->
