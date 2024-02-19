@@ -8,9 +8,9 @@ redirect_from:
     - /about.html
 ---
 
-I'm Ashmit Khandelwal, final year Computer Science student at [BITS Pilani](https://www.bits-pilani.ac.in/goa/), Machine Learning Research Intern at [Adobe](https://research.adobe.com/), Research Assistant at [University of Pittsburgh](https://www.pitt.edu/), and core member at [SAiDL](www.saidl.in). I'm broadly interested in Vision, Language, and the relation between these media and their consumers.
+I'm Ayush Ghatalia, third year Computer Science student at [BITS Pilani](https://www.bits-pilani.ac.in/goa/).
 
-### My research experiance spans working with:
+<!-- ### My research experiance spans working with:
 
 <img src="../files/adobe.png" width="50" height="50" align="center"/> &ensp; [Yaman Kumar](https://sites.google.com/view/yaman-kumar/) at Adobe Research
 
@@ -48,6 +48,6 @@ _July '22_ - I'll be an instructor for the Introduction to Deep Learning course 
 
 _May '22_ - Interning at [National Centre for Polar and Ocean Research](https://ncpor.res.in/), working on Antarctic weather forecasting research.
 
-<br/>
+<br/> -->
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fashmitkx.github.io&count_bg=%23096CDD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true)](https://hits.seeyoufarm.com) -->
