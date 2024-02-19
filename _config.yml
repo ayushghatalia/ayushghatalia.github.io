@@ -22,9 +22,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ayush Ghatalia"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Mumbai,India"
+  location         : "Mumbai, India"
   employer         : "BITS Pilani, Goa"
   uri              : # URL
   email            : "acghatalia@gmail.com" 
@@ -63,7 +63,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
