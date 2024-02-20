@@ -4,7 +4,7 @@ collection: teaching
 type: 'First Degree Teaching Assistant'
 permalink: /teaching/mup-3-2
 venue: 'Department of CSIS'
-date: 2024-01
+date: 2024-01-18
 location: 'BITS Pilani, Goa'
 ---
 

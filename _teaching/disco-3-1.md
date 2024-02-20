@@ -4,7 +4,7 @@ collection: teaching
 type: 'First Degree Teaching Assistant'
 permalink: /teaching/disco-3-1
 venue: 'Department of CSIS'
-date: 2023-08
+date: 2023-08-30
 location: 'BITS Pilani, Goa'
 ---
 
