@@ -8,7 +8,15 @@ redirect_from:
     - /about.html
 ---
 
-I'm Ayush Ghatalia, third year Computer Science student at [BITS Pilani](https://www.bits-pilani.ac.in/goa/).
+I'm Ayush Ghatalia, third year Computer Science student (with a minor in Finance) at [BITS Pilani](https://www.bits-pilani.ac.in/goa/).
+
+I'm passionate about exploring the intersection of finance and technology. With a background in both finance and computer science, I thrive on the dynamic interplay between numbers and algorithms, always seeking to build innovative solutions.
+
+My journey began with a fascination for finance, where I discovered the power of numbers in understanding markets and making informed decisions. Over time, my interest evolved to encompass the world of computer science, drawn to its capacity for problem-solving and creating practical applications.
+
+I love the process of building things—whether it's a complex algorithm for financial analysis or a sleek software interface that simplifies user experience.
+
+Recently, I've been diving deep into the quantitative side of finance, exploring mathematical models and statistical methods to gain deeper insights into market behavior. It's an exciting journey filled with discovery and endless possibilities.
 
 <!-- ### My research experiance spans working with:
 
