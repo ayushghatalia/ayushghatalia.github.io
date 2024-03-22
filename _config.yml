@@ -84,7 +84,7 @@ author:
     location: 'Goa, India'
     employer:
     pubmed:
-    googlescholar:
+    googlescholar: 'https://scholar.google.com/citations?user=j1_B1eMAAAAJ&hl=en'
     email: 'acghatalia@gmail.com'
     researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
     uri:
