@@ -40,7 +40,7 @@ _Nov '22_ - I'll be an instructor for the Introduction to ML and DL course by Ce
 
 <!-- _July '22_ - Selected to attend [Amazon ML Summer School 2022](https://amazonmlsummerschoolindia.splashthat.com/). -->
 
-06/23 - Will be working as an ML Research Intern at [North Eastern Space Applications Centre](https://nesac.gov.in/) for Summer 2023.
+**06/23** - Will be working as an ML Research Intern at [North Eastern Space Applications Centre](https://nesac.gov.in/) for Summer 2023.
 
 <!-- <br/> --> -->
 
