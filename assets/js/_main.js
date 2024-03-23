@@ -26,13 +26,6 @@ $(document).ready(function(){
   // init sticky sidebar
   $(".sticky").Stickyfill();
 
-  const darkModeToggle = document.getElementById('darkModeToggle');
-  const body = document.body;
-  
-  darkModeToggle.addEventListener('click', () => {
-    body.classList.toggle('dark-mode');
-  });
-  
   var stickySideBar = function(){
     var show = $(".author__urls-wrapper button").length === 0 ? $(window).width() > 1024 : !$(".author__urls-wrapper button").is(":visible");
     // console.log("has button: " + $(".author__urls-wrapper button").length === 0);
