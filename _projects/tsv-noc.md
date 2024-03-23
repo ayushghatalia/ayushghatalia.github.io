@@ -8,5 +8,5 @@ location: ''
 ---
 
 [ongoing] Conducted extensive literature review of existing application-mapping and latency estimation techniques.\\
-Currently simulating an application-specific 3D-NoC using Access Noxim and SystemC. Formulated a new loss function for variable TSVs which is being tested.\\
+Currently simulating an **application-specific 3D-NoC** using Access Noxim and SystemC. Formulated a new loss function for variable TSVs which is being tested.\\
 Supervised by: [Kanchan Manna](https://universe.bits-pilani.ac.in/goa/kanchanm/profile) - BITS Pilani
