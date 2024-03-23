@@ -151,3 +151,20 @@
     font-size: $type-size-7;
   }
 }
+
+/* Light Mode (Default) */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+}
+
+/* Dark Mode */
+.dark-mode {
+  --bg-color: #333333;
+  --text-color: #ffffff;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
