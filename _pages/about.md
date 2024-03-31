@@ -19,29 +19,15 @@ I love the process of building things—whether it's a complex algorithm for fin
 Recently, I've been diving deep into the quantitative side of finance, exploring mathematical models and statistical methods to gain deeper insights into market behavior. It's an exciting journey filled with discovery and endless possibilities.
 
 # Updates
+**03/24** - Paper accepted at IEEE IGARSS
 
-<!-- _Jan '24_ - "[Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior](https://arxiv.org/abs/2309.00359)" has been accepted as a Spotlight paper at ICLR 2024!
+**02/24** - Paper accepted at EGU :/
 
-_Sep '23_ - My work on "[Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior](https://arxiv.org/abs/2309.00359)" is available on arXiv.
+**01/24** - Will be TAing the courses ((Microprocessors) & (Database Systems)) this semester (Spring 2024).
 
-_Jun '23_ - I'll be working remotely with Dr. Adriana Kovashka at the University of Pittsburgh as a Research Assistant.
+<!-- **12/23** - Completed 3-1 at BITS -->
 
-_Jan '23_ - I'll be working as a Research Assistant with [APPCAIR](https://www.bits-pilani.ac.in/appcair/) and [Wadhwani AI](https://www.wadhwaniai.org/) during the spring semester.
-
-_Nov '22_ - I'll be joining [Adobe Media and Data Science Research](https://research.adobe.com/) as a Research Intern.
-
-_Nov '22_ - I'll be an instructor for the Introduction to ML and DL course by Center of Technical Education, BITS Pilani, Goa. -->
-
-<!-- _Sept '22_ - Offered a research internship at Adobe Media and Data Science Research, for summer 2023. -->
-
-<!-- _July '22_ - Selected to attend the [6th Summer School on AI](http://cvit.iiit.ac.in/summerschool2022/index.php) organized by CVIT, IIITH. -->
-
-<!-- _July '22_ - I'll be an instructor for the Introduction to Deep Learning course by Quark Controls, BITS Pilani - Goa. -->
-
-<!-- _July '22_ - Selected to attend [Amazon ML Summer School 2022](https://amazonmlsummerschoolindia.splashthat.com/). -->
+**08/23** - Will be TAing the course (Discrete Structures in CS) this semester (Fall 2023).
 
 **06/23** - Will be working as an ML Research Intern at [North Eastern Space Applications Centre](https://nesac.gov.in/) for Summer 2023.
 
-<!-- <br/> --> -->
-
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fashmitkx.github.io&count_bg=%23096CDD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true)](https://hits.seeyoufarm.com) -->
